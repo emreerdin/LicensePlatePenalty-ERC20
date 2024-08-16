@@ -45,4 +45,4 @@ Contributions to the License Plate Penalty Payment System are welcome! If you'd 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any inquiries or further information, please contact us at [contact@example.com].
+For any inquiries or further information, please contact us at [emreerdin@emreerdin.com].
